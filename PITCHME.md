@@ -1,12 +1,14 @@
 # <span style="color: #e49436">DATEI</span>FORMATE
 
 +++
-<span style="color:gray; font-size:0.6em;">Digital Divide</span>
+<span style="color:gray;">Digital Divide</span>
 <br>
 <i>and now something completely open</i>
 
 +++
-txt, md, tex
+txt, tex, md
+<br>
+<b>Textdateien sind vieleitig einsetzbar.</b>
 
 ---
 # <span style="color: #e49436">WERKZEUGE</span>
