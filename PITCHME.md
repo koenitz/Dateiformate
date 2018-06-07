@@ -15,7 +15,7 @@ txt, tex, md
 +++
 GitHub / GitPitch
  <iframe
-      src="https://github.com/koenitz/Dateiformate/edit/master/PITCHME.md"
+      src="https://github.com/koenitz/Dateiformate/"
       width="100%" 
       height="500" 
       name="gitpitch">
