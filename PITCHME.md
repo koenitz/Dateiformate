@@ -5,14 +5,11 @@
 <br>
 <i>and now something completely open</i>
 
----
-
-
----
-
-
 +++
-#Werkzeuge
+txt, md, tex
+
+---
+# <span style="color: #e49436">WERKZEUGE</span>
 
 +++
 Tweedback
@@ -33,5 +30,6 @@ Etherpad
       name="etherpad">
 </iframe>
 z.B. https://pad.hs-wismar.de
+
 ---
 # <span style="color: #e49436">ENDE</span> DER VORSTELLUNG
