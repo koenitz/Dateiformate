@@ -18,7 +18,7 @@ GitHub / GitPitch
       src="https://github.com/koenitz/Dateiformate/edit/master/PITCHME.md"
       width="100%" 
       height="500" 
-      name="twdbk">
+      name="gitpitch">
 </iframe>
 
 +++
