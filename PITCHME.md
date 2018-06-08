@@ -1,4 +1,4 @@
-# <span style="color: #e49436">DATEI</span>FORMATE
+# <span style="color: #afafaf">DATEI</span>FORMATE machen Spaß (irgendwie)
 
 +++
 <span style="color:gray;">Digital Divide</span>
